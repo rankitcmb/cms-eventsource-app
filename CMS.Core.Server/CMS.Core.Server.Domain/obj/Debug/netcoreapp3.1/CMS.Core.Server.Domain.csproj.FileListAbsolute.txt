@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Domain\bin\Debug\netcoreapp3.1\CMS.Core.Server.Domain.deps.json
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Domain\bin\Debug\netcoreapp3.1\CMS.Core.Server.Domain.dll
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Domain\bin\Debug\netcoreapp3.1\CMS.Core.Server.Domain.pdb
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Domain\bin\Debug\netcoreapp3.1\CMS.Core.Server.Core.dll
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Domain\bin\Debug\netcoreapp3.1\CMS.Core.Server.Core.pdb
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Domain\obj\Debug\netcoreapp3.1\CMS.Core.Server.Domain.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Domain\obj\Debug\netcoreapp3.1\CMS.Core.Server.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Domain\obj\Debug\netcoreapp3.1\CMS.Core.Server.Domain.AssemblyInfo.cs
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Domain\obj\Debug\netcoreapp3.1\CMS.Core.Server.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Domain\obj\Debug\netcoreapp3.1\CMS.Core.Server.Domain.csproj.CopyComplete
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Domain\obj\Debug\netcoreapp3.1\CMS.Core.Server.Domain.dll
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Domain\obj\Debug\netcoreapp3.1\CMS.Core.Server.Domain.pdb

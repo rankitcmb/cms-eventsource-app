@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xXXSOiP++St5r+5Any3hvY4d9jh1v0DPNVqxzgylQ5ooQWmEcwXNQso8fnlP6r3FJsGJD3yMp7rebjbcyAUSGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\CMS.Core.Server\\CMS.Core.Server.Domain\\CMS.Core.Server.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.16\\microsoft.extensions.dependencyinjection.abstractions.3.1.16.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

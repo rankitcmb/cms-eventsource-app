@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\bin\Debug\netcoreapp3.1\CMS.Core.Server.Persistence.EventSource.deps.json
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\bin\Debug\netcoreapp3.1\CMS.Core.Server.Persistence.EventSource.dll
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\obj\Debug\netcoreapp3.1\CMS.Core.Server.Persistence.EventSource.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\obj\Debug\netcoreapp3.1\CMS.Core.Server.Persistence.EventSource.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\obj\Debug\netcoreapp3.1\CMS.Core.Server.Persistence.EventSource.AssemblyInfo.cs
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\bin\Debug\netcoreapp3.1\CMS.Core.Server.Persistence.EventSource.pdb
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\bin\Debug\netcoreapp3.1\CMS.Core.Server.Core.dll
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\bin\Debug\netcoreapp3.1\CMS.Core.Server.Domain.dll
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\bin\Debug\netcoreapp3.1\CMS.Core.Server.Domain.pdb
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\bin\Debug\netcoreapp3.1\CMS.Core.Server.Core.pdb
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\obj\Debug\netcoreapp3.1\CMS.Core.Server.Persistence.EventSource.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\obj\Debug\netcoreapp3.1\CMS.Core.Server.Persistence.EventSource.csproj.CopyComplete
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\obj\Debug\netcoreapp3.1\CMS.Core.Server.Persistence.EventSource.dll
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Persistence.EventSource\obj\Debug\netcoreapp3.1\CMS.Core.Server.Persistence.EventSource.pdb

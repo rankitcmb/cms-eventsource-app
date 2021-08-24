@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\bin\Debug\netcoreapp3.1\CMS.Core.Server.Infrastructure.Kafka.deps.json
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\bin\Debug\netcoreapp3.1\CMS.Core.Server.Infrastructure.Kafka.dll
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\bin\Debug\netcoreapp3.1\CMS.Core.Server.Infrastructure.Kafka.pdb
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\bin\Debug\netcoreapp3.1\CMS.Core.Server.Core.dll
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\bin\Debug\netcoreapp3.1\CMS.Core.Server.Domain.dll
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\bin\Debug\netcoreapp3.1\CMS.Core.Server.Core.pdb
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\bin\Debug\netcoreapp3.1\CMS.Core.Server.Domain.pdb
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\obj\Debug\netcoreapp3.1\CMS.Core.Server.Infrastructure.Kafka.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\obj\Debug\netcoreapp3.1\CMS.Core.Server.Infrastructure.Kafka.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\obj\Debug\netcoreapp3.1\CMS.Core.Server.Infrastructure.Kafka.AssemblyInfo.cs
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\obj\Debug\netcoreapp3.1\CMS.Core.Server.Infrastructure.Kafka.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\obj\Debug\netcoreapp3.1\CMS.Core.Server.Infrastructure.Kafka.csproj.CopyComplete
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\obj\Debug\netcoreapp3.1\CMS.Core.Server.Infrastructure.Kafka.dll
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.Infrastructure.Kafka\obj\Debug\netcoreapp3.1\CMS.Core.Server.Infrastructure.Kafka.pdb

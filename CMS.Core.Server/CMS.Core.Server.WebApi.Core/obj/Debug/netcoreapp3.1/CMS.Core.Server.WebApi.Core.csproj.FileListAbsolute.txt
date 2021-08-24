@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.WebApi.Core\bin\Debug\netcoreapp3.1\CMS.Core.Server.WebApi.Core.deps.json
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.WebApi.Core\bin\Debug\netcoreapp3.1\CMS.Core.Server.WebApi.Core.dll
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.WebApi.Core\bin\Debug\netcoreapp3.1\CMS.Core.Server.WebApi.Core.pdb
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.WebApi.Core\obj\Debug\netcoreapp3.1\CMS.Core.Server.WebApi.Core.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.WebApi.Core\obj\Debug\netcoreapp3.1\CMS.Core.Server.WebApi.Core.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.WebApi.Core\obj\Debug\netcoreapp3.1\CMS.Core.Server.WebApi.Core.AssemblyInfo.cs
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.WebApi.Core\obj\Debug\netcoreapp3.1\CMS.Core.Server.WebApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.WebApi.Core\obj\Debug\netcoreapp3.1\CMS.Core.Server.WebApi.Core.dll
+C:\Users\Dell\source\repos\CMS.Core.Server\CMS.Core.Server.WebApi.Core\obj\Debug\netcoreapp3.1\CMS.Core.Server.WebApi.Core.pdb
